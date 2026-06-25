@@ -1,16 +1,43 @@
-## Hi there 👋
+# Seydou Mané
 
-<!--
-**smmane/smmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Spring Boot | Angular | Cloud | AI Automation
 
-Here are some ideas to get you started:
+## À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Consultant spécialisé dans :
+
+- Architecture Logicielle
+- Spring Boot
+- Angular
+- Cloud
+- DevOps
+- AI Automation
+
+## Compétences
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring AI
+
+### Frontend
+- Angular
+- TypeScript
+
+### Cloud
+- AWS
+- Azure
+- Kubernetes
+
+### AI
+- Spring AI
+- RAG
+- Agents IA
+
+## Projets phares
+
+- AI Automation Platform
+- Enterprise SaaS
+- Trading Platform
+- Identity Management Platform

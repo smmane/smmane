@@ -1,43 +1,97 @@
 # Seydou Mané
 
-Senior Software Engineer | Spring Boot | Angular | Cloud | AI Automation
+## Solution Architect | AI Automation Consultant | Software Engineer
 
-## À propos
+---
 
-Consultant spécialisé dans :
+## 👋 About This Portfolio
 
-- Architecture Logicielle
-- Spring Boot
-- Angular
-- Cloud
-- DevOps
-- AI Automation
+This repository represents my professional consulting profile as a Software Engineer and Solution Architect.
 
-## Compétences
+It demonstrates my ability to:
+- Design scalable enterprise architectures
+- Build AI-powered automation systems
+- Develop cloud-native applications
+- Define system design and technical strategies
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- Spring AI
+---
 
-### Frontend
+## 🎯 What I Do
+
+I help companies design and build:
+
+- Scalable SaaS platforms
+- AI-driven automation systems
+- Microservices architectures
+- Cloud-native applications
+- Enterprise integration systems
+
+---
+
+## 🧠 Core Expertise
+
+### 🏗 Software Architecture
+- Microservices
+- Domain-Driven Design (DDD)
+- Hexagonal Architecture
+- Event-Driven Systems
+
+### ⚙️ Backend Engineering
+- Java / Spring Boot
+- Spring Security (JWT, OAuth2, Keycloak)
+- REST APIs
+- Distributed systems
+
+### 🎨 Frontend Engineering
 - Angular
 - TypeScript
+- Scalable UI architecture
 
-### Cloud
-- AWS
-- Azure
-- Kubernetes
+### ☁️ Cloud & DevOps
+- Docker & Kubernetes
+- CI/CD pipelines
+- AWS / Azure fundamentals
 
-### AI
+### 🤖 AI & Automation
 - Spring AI
-- RAG
-- Agents IA
+- RAG (Retrieval Augmented Generation)
+- LLM-based systems
+- Intelligent workflow automation
 
-## Projets phares
+---
 
-- AI Automation Platform
-- Enterprise SaaS
-- Trading Platform
-- Identity Management Platform
+## 🚀 Featured Projects
+
+### 🧠 AI Automation Platform
+AI-powered system for automating business workflows using LLMs and RAG architecture.
+
+### 🏢 Enterprise SaaS Platform
+Multi-tenant SaaS system designed for scalability and enterprise use cases.
+
+### 🔐 Identity Management System
+Centralized authentication system using Keycloak and OAuth2.
+
+### 📊 Trading Platform
+Event-driven architecture for financial data processing and automation.
+
+---
+
+## 🏗 Architecture Focus
+
+This portfolio emphasizes:
+
+- System Design
+- Scalability
+- Maintainability
+- Security
+- Cloud-native principles
+
+---
+
+## 📫 Contact
+
+Open to consulting opportunities in:
+- Software Architecture
+- AI Automation
+- Cloud Engineering
+- Enterprise System Design
